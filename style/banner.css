@@ -1,0 +1,27 @@
+body {
+  max-width: 1270px;
+  background-color: bisque;
+  margin: 0 auto;
+}
+
+.hero-con {
+  display: flex;
+  align-items: center;
+  background-color: lightgreen;
+
+  padding: 25px;
+  font-size: 1.25em;
+  border-radius: 15px;
+}
+.hero-con img {
+  width: 100%;
+  height: 400px;
+  border-radius: 12px;
+}
+.hero-con button {
+  background-color: indigo;
+  padding: 10px 30px;
+  border-radius: 8px;
+  font-size: 1.22em;
+  color: white;
+}
